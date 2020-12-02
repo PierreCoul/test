@@ -9,3 +9,6 @@ def carotte(x):
 
 def test():
     return "test"
+    
+def masoeur(y):
+    return mange beaucoup
