@@ -3,3 +3,6 @@ def f(x):
 
 def function(a, b):
     return a - 2*b
+
+def carotte(x):
+    return carotte
