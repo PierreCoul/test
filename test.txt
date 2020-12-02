@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Bonjour très inconnu(e ?)
 carotte
+=======
+Bonjour très chère inconnue
+>>>>>>> 189b3d0cc550bdff330e53fccd4d0eeeabc54422
