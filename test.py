@@ -6,3 +6,6 @@ def function(a, b):
 
 def carotte(x):
     return carotte
+
+def masoeur(y):
+    return mange beaucoup
